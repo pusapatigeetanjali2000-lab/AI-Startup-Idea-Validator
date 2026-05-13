@@ -16,7 +16,7 @@ User enters:
 Startup idea
 Industry
 Target audience
-
+___________________________________________________________
 AI agents will:
 Research competitors
 Analyze market trends
@@ -25,9 +25,7 @@ Create SWOT analysis
 Predict success probability
 Generate business model
 Create investor-style report
-
-
-
+_________________________________________________________________
 This project is extremely strong because it combines:
 Multi-Agent AI
 Real-time research
